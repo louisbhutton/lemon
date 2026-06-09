@@ -1,2 +1,2 @@
 # lemon
-Local multi-llm ensembly system
+Local multi-llm ensemble system
